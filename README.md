@@ -93,15 +93,9 @@ mau deploy
 - [Suporte corporativo](https://enterprise.nestjs.com)
 - [Vagas e oportunidades](https://jobs.nestjs.com)
 
-## 💡 Suporte
-
-Este projeto é de código aberto e licenciado sob MIT. Você pode apoiar o projeto como patrocinador ou contribuinte. Saiba mais [aqui](https://docs.nestjs.com/support).
-
 ## 👤 Autor
 
-- **Kamil Myśliwiec** - [Twitter](https://twitter.com/kammysliwiec)
-- **Website oficial** - [https://nestjs.com](https://nestjs.com/)
-- **Twitter do projeto** - [@nestframework](https://twitter.com/nestframework)
+- **Fabio Moura dos Santos** - [linkedin](https://www.linkedin.com/in/fabio-moura-3b6063230)
 
 ## 📝 Licença
 
